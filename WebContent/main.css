@@ -1,0 +1,10 @@
+body{
+	/* padding:50px 50px 50px 50px; */
+	1padding:50px 50px 50px 50px;
+	padding:50px;
+	margin:50px 100px 50px 100px;
+	border:1px solid #333;
+	font-size:12px;
+	font-family: '맑은 고딕';
+	color:#333;
+}
